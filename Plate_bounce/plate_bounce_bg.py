@@ -1,3 +1,5 @@
+#project and code written by Rajeev K R, github.com/Rajeev-K-R
+
 import pygame
 from pygame import mixer
 
