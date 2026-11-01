@@ -60,16 +60,10 @@ Use the keyboard controls implemented by the game to move the plate/paddle and k
 
 ## 🎥 Demo
 
-A short gameplay recording can be added here:
+A short gameplay recording:
 
-> 🎬 **Demo:** *Add YouTube / Google Drive / GitHub-hosted demo link here*
-
-For example:
-
-```markdown
 [▶️ Watch the Plate Bounce Demo](https://github.com/user-attachments/assets/6b8f8187-829d-4024-9d7b-242ee69705b3)
 
-```
 
 ## 📌 Project Context
 
