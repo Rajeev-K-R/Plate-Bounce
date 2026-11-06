@@ -4,6 +4,12 @@ A small arcade-style game built in **Python** using **Pygame**. A ball continuou
 
 The project is a compact exercise in real-time game loops, collision handling, keyboard input, and 2D animation.
 
+## 🎥 Demo
+
+A short gameplay recording:
+
+[▶️ Watch the Plate Bounce Demo](https://github.com/user-attachments/assets/6b8f8187-829d-4024-9d7b-242ee69705b3)
+
 ## ✨ Highlights
 
 - Real-time Pygame game loop
@@ -57,12 +63,6 @@ python <game_file>.py
 ## 🎮 Controls
 
 Use the keyboard controls implemented by the game to move the plate/paddle and keep the ball in play.
-
-## 🎥 Demo
-
-A short gameplay recording:
-
-[▶️ Watch the Plate Bounce Demo](https://github.com/user-attachments/assets/6b8f8187-829d-4024-9d7b-242ee69705b3)
 
 
 ## 📌 Project Context
